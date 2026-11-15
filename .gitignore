@@ -32,3 +32,7 @@ target/
 *.o
 *.obj
 .DS_Store
+
+# relay 投递对账演示的运行期数据库与 WAL 文件
+var/
+
